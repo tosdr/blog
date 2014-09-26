@@ -1,5 +1,7 @@
-What's up? {.page-header}
-==========
+[[!meta title="What's up?"]]
+[[!meta language="en"]]
+[[!meta date="2013-02-18"]]
+[[!meta author="Ian McGowan"]]
 
 It's been a while since we've informed you all what's happening around
 here at ToS;DR, which is a shame because there's lots to talk about!
@@ -26,4 +28,3 @@ thank you. Hopefully those will be getting out to you soon!
 Apologies on the delayed blog entry, but keep checking back to see what
 all is going on behind the scenes here at ToS;DR.
 
-18 Feb 2013

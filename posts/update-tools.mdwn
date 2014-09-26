@@ -1,4 +1,6 @@
-An update on tools {.page-header}
+[[!meta date="2012-10-21"]]
+
+An update on tools
 ==================
 
     Subject: An update on tools

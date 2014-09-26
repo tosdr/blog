@@ -1,5 +1,7 @@
-Hello World! (again) {.page-header}
-====================
+[[!meta title="Hello World! (again)"]]
+[[!meta language="en"]]
+[[!meta date="2012-11-14"]]
+[[!meta author="Hugo Roy"]]
 
 An update of the project is overdue. Since we started working on this in
 June, much has happened which we did not anticipate. Feedback on the
@@ -23,4 +25,3 @@ feed](feed.rss)).
 
 Stay tuned!
 
-14 Nov 2012

@@ -1,5 +1,8 @@
-ToS;DR in Action {#tosdr-in-action .page-header}
-================
+[[!meta title="ToS;DR in Action"]]
+[[!meta language="en"]]
+[[!meta date="2013-06-10"]]
+[[!meta author="Hugo Roy"]]
+
 
 During the month of June, the ToS;DR team is collaborating with the BBC
 on their [“Law in action”
@@ -82,8 +85,8 @@ state](http://www.apple.com/legal/internet-services/itunes/us/terms.html):
 > be effective immediately and incorporated into this Agreement. Your
 > continued use of the iTunes Service will be deemed acceptance thereof.
 
-![Screenshot of iTunes
-ToS](tosdr-in-action-i-have-read-and-agree/itunes-agree.jpg "Do you agree?")
+[[!img itunes-agree.jpg alt="Screenshot of iTunes
+ToS" caption="Do you agree?")
 
 Screenshot of iTunes ToS
 
@@ -156,7 +159,7 @@ protection or in meaningless consent (see for instance the intense
 lobbying over the proposed requirement that consent be expressed
 consent).
 
-![](tosdr-in-action-i-have-read-and-agree/eudatap.jpg "Data protection logo")
+[[!img eudatap.jpg alt="Data protection logo"]]
 
 Oh, I forgot to answer the question. No, some of these terms are
 actually illegal:
@@ -203,5 +206,3 @@ Quite to the contrary, I would say we have very little idea in general
 about what's happening to our rights online and how we're [being
 tracked](http://blogs.fsfe.org/hugo/2013/05/whos-tracking-me-online-the-most-google-or-facebook/).
 Hopefully, ToS;DR can fix some of that.
-
-10 Jun 2013

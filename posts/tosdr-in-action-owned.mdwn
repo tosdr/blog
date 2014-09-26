@@ -1,7 +1,9 @@
-“What is yours stays yours”: Oh, really? {#what-is-yours-stays-yours-oh-really .p-name}
-========================================
+[[!meta title="“What is yours stays yours”: Oh, really?"]]
+[[!meta language="en"]]
+[[!meta date="2013-06-17"]]
+[[!meta author="Hugo Roy"]]
 
-![](../img/hugo.png)[Hugo Roy](http://hugoroy.eu/index.en.html)
+
 
 [This post is part of a series in collaboration with the BBC Radio 4
 “Law in Action,” where we try to debunk some of the myths related to
@@ -203,4 +205,3 @@ away your rights, one simple first step can be to
 and instantly check the information regarding the copyright licenses of
 services you use.
 
-17 Jun 2013

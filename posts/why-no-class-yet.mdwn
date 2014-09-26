@@ -1,5 +1,7 @@
-Why so many services have "No Class Yet" {.page-header}
-========================================
+[[!meta title="Why so many services have “No Class Yet”"]]
+[[!meta language="en"]]
+[[!meta date="2012-11-19"]]
+[[!meta author="Hugo Roy"]]
 
 We've had some people wondering why so many services still have "no
 class". First, what does that mean? Second, why is that so?
@@ -49,4 +51,3 @@ hesitate to [contact us](../about.html#contact)!
 involved](../get-involved.html)! We also welcome any feedback on the
 page itself.
 
-19 Nov 2012

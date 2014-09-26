@@ -1,3 +1,7 @@
+[[!meta language="en"]]
+[[!meta date="2013-04-26"]]
+[[!meta author="Ian McGowan"]]
+
 This month we have welcomed aboard a new intern, Suzanne, to help with
 the data curation process. This will help immensely with the amount of
 points we already have, as well as any new ones that are contributed.
@@ -32,5 +36,3 @@ can be sure that as soon as we hear anything, we will let you all know.
 
 As always, we welcome contributions from anyone at our Google group.
 Please continue to check the site, and spread the word on our project!
-
-26 April 2013

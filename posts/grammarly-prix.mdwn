@@ -1,3 +1,7 @@
+[[!meta language="en"]]
+[[!meta date="2013-03-19"]]
+[[!meta author="Ian McGowan"]]
+
 Lots of things are continuing to happen here at ToSDR! We have a new web
 address as you might have noticed, we're continuing to review services
 (Grammarly will soon be up on the site, I'm happy to announce!), and we
@@ -37,4 +41,3 @@ We have also finally sent out the last ToSDR T-shirt and last two
 sticker packs, which is great news for those of you who donated to the
 project. Hopefully you'll be receiving those sometime soon!
 
-19 March 2013

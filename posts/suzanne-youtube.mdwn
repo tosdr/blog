@@ -1,5 +1,7 @@
-YouTube's terms of service {.page-header}
-==========================
+[[!meta title="YouTube's terms of service"]]
+[[!meta language="en"]]
+[[!meta date="2013-06-09"]]
+[[!meta author="Suzanne Azmayesh"]]
 
 Dear reader, I'm very pleased to introduce here Suzanne's first blog
 commit about her work at ToS;DR. Suzanne studies law in Sciences Po
@@ -47,4 +49,3 @@ especially the persons who have a Youtube account and upload videos, are
 aware of their rights, as presented in the terms of service they have
 agreed to.
 
-9 Jun 2013
