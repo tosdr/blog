@@ -1,0 +1,31 @@
+A productive week {.page-header}
+=================
+
+This last week or so has been quite the productive one, with lots of
+great contributions. We've made preliminary data points for the
+following services that will be appearing on the website in the near
+future:
+
+-   SpiderOak
+-   Reddit
+-   IFTTT
+-   Allrecipes
+-   Apple
+-   Fara
+-   Envato
+-   Nokia
+-   CouchSurfing
+-   Indiegogo
+-   Skype Education
+-   Grammarly
+
+The data points gathered are by no means complete at this point for all
+of these services, but we've made great progress. One of the dilemmas
+we've encountered is how to frame Terms that cover more than one service
+(e.g., Envato), but we welcome discussion and contributions on that
+topic!!! Thanks for reading, and as another bit of information, we do
+have [an extension for Google
+Chrome](https://chrome.google.com/webstore/detail/terms-of-service-didn%E2%80%99t-r/hjdoplcnndgiblooccencgcggcoihigg/).
+Check it out!"
+
+11 Dec 2012

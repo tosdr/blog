@@ -1,0 +1,36 @@
+This month we have welcomed aboard a new intern, Suzanne, to help with
+the data curation process. This will help immensely with the amount of
+points we already have, as well as any new ones that are contributed.
+Welcome, Suzanne!
+
+In addition, we have curated some more points for the popular music
+service, [Spotify](http://tosdr.org/#spotify) [will be available on the
+website after peer review]. I know a number of people who use it, so
+this particular set of data should be very relevant to tons of people
+out there. Feel free to take a look if you haven't already. For example,
+Spotify, like many services, has a broad copyright license. This means
+that a lot of content you publish or provide them, they can use for any
+number of things. Another issue is that they can remove your content at
+any time for any or no reason. Plus, if you have any software issues,
+the only solution they provide is uninstalling the program.
+
+Even so, Spotify does specify the information they may collect, which is
+good for transparency. They also warn about what can happen to any
+content you publish publicly, which is another good point. And perhaps
+most importantly, if there are any material changes to their privacy
+policy, they will let you know.
+
+Another service we've started looking at is Cloudant. If you or someone
+you know is developing web or mobile apps, this should be really
+helpful! Hopefully we'll get some data points from their TOS up here
+shortly.
+
+We are also waiting to hear back from the Ars Electronic / Prix Ars
+Electronica 2013, international competition of CyberArts, regarding our
+possible award in the "Digital Communities" category. Wish us luck! You
+can be sure that as soon as we hear anything, we will let you all know.
+
+As always, we welcome contributions from anyone at our Google group.
+Please continue to check the site, and spread the word on our project!
+
+26 April 2013

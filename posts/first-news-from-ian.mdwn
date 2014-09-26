@@ -1,0 +1,27 @@
+First News from Ian {.page-header}
+===================
+
+Hi everyone! I'm very pleased to share with you the first blog commit
+from Ian McGowan, who joined our forces last month thanks to your
+donations! I have been working with Ian to explain the difficult task of
+curating points on the forum, analysing the topics, and leading the
+discussions that ultimately enable us to make the reviews that you see
+on tosdr.org. So without further introduction, here's a small update
+from Ian.\
+-- Hugo
+
+* * * * *
+
+As of 30 Nov 2012, we have added many points about a number of the
+services being reviewed on the site. This includes points about
+Facebook, Wikipedia, Amazon, Wordpress, Dropbox, and WhatsApp. Although
+none of these services have terms that have been reviewed in their
+entirety at this point, we have made great strides in pulling out the
+main points thus far. It has been my goal to phrase the information in
+language that is as easy to understand as possible. We have some
+contributors, but continue to welcome more!
+
+PS: [View source of the draft
+points](https://github.com/tosdr/tosdr.org/blob/master/points/drafts/ian-curation-20121201.json)
+
+30 Nov 2012

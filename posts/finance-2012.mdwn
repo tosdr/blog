@@ -1,0 +1,40 @@
+Project finances for 2012 {.page-header}
+=========================
+
+    Subject:  tosdr finance
+    From: Michiel de Jong [email hidden]
+    To: Hugo Roy [email hidden], Jan-Christoph Borchardt
+     [email hidden],  Jimm Stout [email hidden], Ian McGowan
+     [email hidden]
+    Date: Wed, 19 Dec 2012 17:52:58 +0700
+
+
+    i found the missing 50 euros. :) let me know if you find any errors in the
+    attached calculation.
+
+    on top of this we will spend about 200 EUR for 500 ToS;DR-logo stickers
+    from StickerMule, 3"x1" with rounded corners plus 300:
+
+    (v) No, i *Didn't Read* your *Terms of Service* - *ToS;DR*
+    *
+    *
+    stickers, 10"x1" with i guess rounded corners as well,
+
+    and then about 800 EUR for about 100 T-shirts from CafePress, and about 300
+    EUR for all the shipping, so that's about 200+800+300 = 1300 EUR on the
+    perks, so then our current balance is just under 17 kEUR.
+
+    shipping from Hacker Beach should be doable, but shipping /to/ Hacker Beach
+    is going to be tricky. If we want to avoid relying on the communist post
+    office then we may have to travel to the nearest UPS/Fedex office to pick
+    stuff up, which is probably in Saigon...
+
+                
+
+* * * * *
+
+Attachment(s):
+--------------
+
+[finance.md](https://github.com/tosdr/tosdr.org/blob/master/blog/finance-2012-attachment-finance.md)
+([plain](finance-2012-attachment-finance.md))

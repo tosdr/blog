@@ -1,0 +1,26 @@
+Importing all posts from the Google Groups forum {#google-groups-import .p-name}
+================================================
+
+![](../img/michiel.jpg)[Michiel de Jong](https://michielbdejong.com/)
+
+This is just a quick update to let you know that I'm working on
+importing all the posts from the Google Groups forum into our database.
+
+The goal is to have a user interface right here on tosdr.org, where all
+participants can submit their data points directly into the database, so
+we can review them much more efficiently than when we have to copy each
+forum thread into the database manually, as we have been doing up till
+now.
+
+The review process will not change, we will still discuss all review
+points before we publish them on the site, but it will become more
+efficient.
+
+For now, everybody can just keep on sending review points to the Google
+Groups forum as described on our [Get
+Involved](http://tosdr.org/get-involved.html) page, but the long-term
+goal is to remove that step from our process. More news soon!
+
+10 Jun 2014
+[Un](http://unhosted.org)hosted by [5apps](https://5apps.com)
+

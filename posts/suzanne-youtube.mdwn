@@ -1,0 +1,50 @@
+YouTube's terms of service {.page-header}
+==========================
+
+Dear reader, I'm very pleased to introduce here Suzanne's first blog
+commit about her work at ToS;DR. Suzanne studies law in Sciences Po
+where I also study, and she's doing an internship as part of her
+master's program. She has been very helpful for our collaboration with
+the BBC (more about that later!) and she has also provided analysis of
+several terms already, amongst them YouTube's, which we are proud to
+publish now: [\#youtube](http://tosdr.org/#youtube).\
+-- Hugo
+
+* * * * *
+
+When I first decided to contribute to the tos;dr project, my idea was to
+analyze and to work on the terms of service of youtube, since it had not
+been already rated while it is one of the most popular websites among
+people. Indeed, it is really common to search for music or videos at
+least once a day on Youtube!
+
+It was thus interesting to know more about the rights of the users who
+actually create accounts and post videos on such a famous service. As it
+was my first analysis of a service, I had no real idea of what I could
+exactly find. However, after a glance, I felt quite surprised by certain
+clauses.
+
+As a matter of fact, some aspects of these terms that I read seemed
+quite negative to me.
+
+For instance, Youtube (as many other services apparently!), can change
+the terms of services at any time, without any notice to the user, while
+the terms continue to be liable to him.
+
+Besides, the content of the users can be removed at any time, and
+without notice, at the sole discretion of Youtube, which is quite
+arbitrary and unequal. Likewise, the videos that a user may delete are
+in fact not really deleted, since Youtube reserves the right to retain
+them. Well, they do say that these deleted videos won't be displayed,
+distributed or performed…but still, what's the point of retaining them,
+then?
+
+If some other points can also appear as mediocre, (you can check them on
+tosdr.org), I think those were the most representative for a service as
+Youtube. If I am absolutely not suggesting that we stop using Youtube, I
+am nevertheless convinced that it is important that everyone, and
+especially the persons who have a Youtube account and upload videos, are
+aware of their rights, as presented in the terms of service they have
+agreed to.
+
+9 Jun 2013

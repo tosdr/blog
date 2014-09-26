@@ -1,0 +1,52 @@
+Why so many services have "No Class Yet" {.page-header}
+========================================
+
+We've had some people wondering why so many services still have "no
+class". First, what does that mean? Second, why is that so?
+
+When we show you that ["Facebook has No Class
+Yet"](../index.html#facebook) we don't mean that the people at Facebook
+aren't particularly elegant. One of the core idea that Michiel insisted
+on is that it's important to keep the ratings as simple as possible.
+Just like when you buy a washing machine in Europe, where you get
+instant information thanks to [a one-dimension
+rating](http://en.wikipedia.org/wiki/European_Union_energy_label "The EU energy label").
+
+Although we try to keep things simple, a lot of efforts is necessary in
+order to achieve something solid. The way a service gets a rating is
+basically like this: each point weighs a score, and the scores are added
+(for positive points) or subtracted (for negative points) until we get a
+global score which puts the service on the A to E scale. To get more
+details, read on [about the classification](../classification.html).
+
+But then, if we already have some points related to Facebook, Google,
+etc. Why do we still show the temporary "No Class Yet"?
+
+The reason is that we do not have enough data yet. Not only we think
+that we need more reviews on that specific service before we can fully
+assess it, but more importantly: remember that the class comes from the
+scores assigned to each individual point. But each of these scores are
+made from comparisons between different clauses. You can get the details
+of these comparisons on the [ratings shown by
+topic](../topics.html#topics).
+
+So the problem is: we don't feel that we've had enough time and enough
+data to make solid comparisons yet. Until we feel confident enough about
+the scores assigned to each point, we'll begin to roll out the classes
+more easily. Lately, we've kept on updating the score to reflect more
+accurately the discussions.
+
+As always, you can follow the developments on the [working group
+mailing-list](https://groups.google.com/d/forum/tosdr), or directly
+follow [the code on github](https://github.com/tosdr/tosdr.org).
+
+We hope that thanks to your donations, we'll have more people working on
+making these comparisons as good as possible. But all of this takes
+time! If you're willing to contribute your energy to this, don't
+hesitate to [contact us](../about.html#contact)!
+
+**Update:** One of the best way to remedy this is to [get
+involved](../get-involved.html)! We also welcome any feedback on the
+page itself.
+
+19 Nov 2012

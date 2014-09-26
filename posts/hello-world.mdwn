@@ -1,0 +1,26 @@
+Hello World! (again) {.page-header}
+====================
+
+An update of the project is overdue. Since we started working on this in
+June, much has happened which we did not anticipate. Feedback on the
+project has been excellent, and participation from the community has
+extended beyond our hopes.
+
+In September, Jan went back from his vacation in north-America, Michiel
+spent much time on the next version of "Unhosted" and other new awesome
+ideas; while I went back to university to pursue my law studies. We've
+run a [successful crowdfunding
+campaign](http://www.indiegogo.com/terms-of-service-didnt-read?c=pledges),
+which allows us to envision the next steps to make the project
+sustainable and to really make an impact!
+
+We first have to thank every one of you again who contributed to
+bootstrap this project! You'll definitely hear more from us in the next
+few days. We'll publish here the web logs of our work, among articles
+etc. As usual, you can follow us [on twitter](http://twitter.com/tosdr)
+and also now from [the projects' blog](index.html) ([subscribe to the
+feed](feed.rss)).
+
+Stay tuned!
+
+14 Nov 2012
