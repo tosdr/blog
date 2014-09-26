@@ -1,5 +1,7 @@
-First News from Ian {.page-header}
-===================
+[[!meta title="First news from Ian"]]
+[[!meta language="en"]]
+[[!meta date="2012-11-30"]]
+[[!meta author="Ian McGowan"]]
 
 Hi everyone! I'm very pleased to share with you the first blog commit
 from Ian McGowan, who joined our forces last month thanks to your
@@ -24,4 +26,3 @@ contributors, but continue to welcome more!
 PS: [View source of the draft
 points](https://github.com/tosdr/tosdr.org/blob/master/points/drafts/ian-curation-20121201.json)
 
-30 Nov 2012

@@ -46,8 +46,8 @@ each individual to read the privacy policies they agree to online. ([The
 Atantic: 76 work days to read all the
 terms](http://www.theatlantic.com/technology/archive/2012/03/reading-the-privacy-policies-you-encounter-in-a-year-would-take-76-work-days/253851/)).
 
-[[!img caption="From
-http://conversation.which.co.uk/technology/length-of-website-terms-and-conditions/" books.jpg alt="UK consumer org “Which?” comparing lenghts"]]
+[[!img books.jpg caption="From
+http://conversation.which.co.uk/technology/length-of-website-terms-and-conditions/" alt="UK consumer org “Which?” comparing lenghts"]]
 
 From
 http://conversation.which.co.uk/technology/length-of-website-terms-and-conditions/

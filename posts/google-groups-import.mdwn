@@ -1,7 +1,7 @@
-Importing all posts from the Google Groups forum {#google-groups-import .p-name}
-================================================
-
-![](../img/michiel.jpg)[Michiel de Jong](https://michielbdejong.com/)
+[[!meta title="Importing all posts from the Google Groups forum"]]
+[[!meta language="en"]]
+[[!meta date="2014-06-10"]]
+[[!meta author="Michiel de Jong"]]
 
 This is just a quick update to let you know that I'm working on
 importing all the posts from the Google Groups forum into our database.
@@ -20,7 +20,4 @@ For now, everybody can just keep on sending review points to the Google
 Groups forum as described on our [Get
 Involved](http://tosdr.org/get-involved.html) page, but the long-term
 goal is to remove that step from our process. More news soon!
-
-10 Jun 2014
-[Un](http://unhosted.org)hosted by [5apps](https://5apps.com)
 
