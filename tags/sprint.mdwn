@@ -1,0 +1,4 @@
+[[!meta title="pages tagged sprint"]]
+
+[[!inline pages="tagged(sprint)" actions="no" archive="yes"
+feedshow=10]]
