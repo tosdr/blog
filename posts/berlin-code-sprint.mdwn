@@ -1,0 +1,14 @@
+[[!meta title="Live from the Berlin Code Sprint"]]
+[[!meta language="en"]]
+[[!meta author="Hugo Roy"]]
+[[!tag sprint]]
+
+The team is working hard this week-end! We gathered in Berlin for a <a href="https://tosdr.org/conf">code sprint</a>! This was A LOT of work! A lot of addition, deletion, cleaning, development, and excitment!
+
+[[!img add-del-weekly.png alt="Github graph"]]
+
+We will blog shortly about the work we did.
+
+But the most important part for our contributors, is that we finally have a web interface to <a href="https://tosdr.org/submit-point.html">submit data</a>!
+
+Please help us, <a href="https://tosdr.org/submit-point.html">test it!</a>
