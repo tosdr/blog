@@ -5,7 +5,7 @@
 
 The team is working hard this week-end! We gathered in Berlin for a <a href="https://tosdr.org/conf">code sprint</a>! This was A LOT of work! A lot of addition, deletion, cleaning, development, and excitment!
 
-[[!img add-del-weekly.png alt="Github graph"]]
+[[!img add-del-weekly.png alt="Github graph" size="x666"]]
 
 We will blog shortly about the work we did.
 
