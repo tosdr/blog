@@ -6,7 +6,10 @@
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
-    height: 200px;
+}
+
+#last-blog-post .inlinepage {
+    height: 300px;
 }
 
 article.inlinepage {

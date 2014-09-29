@@ -1,7 +1,7 @@
 [[!meta title="Terms of Service; Didin’t Read Blog"]]
 
 <div id="last-blog-post">
-[[!inline pages="page(./posts/*) and !*/Discussion" show="1" actions=no archive=no]]
+[[!inline pages="page(./posts/*) and !*/Discussion" show="1" actions=no archive=no feeds=no]]
 </div>
 
 [[!inline pages="page(./posts/*) and !*/Discussion" show="0" actions=no archive=yes]]
