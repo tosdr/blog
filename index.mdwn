@@ -3,7 +3,6 @@
 <div id="last-blog-post">
 [[!inline pages="page(./posts/*) and !*/Discussion" show="1" actions=no archive=no feeds=no]]
 </div>
+<div id="last-blog-blur"></div>
 
-<div id="list-blog-post">
 [[!inline pages="page(./posts/*) and !*/Discussion" show="0" actions=no archive=yes]]
-</div>

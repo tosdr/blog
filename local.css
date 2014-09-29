@@ -17,14 +17,15 @@ article.inlinepage {
     margin-right: auto;
 }
 
-#list-blog-post {
+#last-blog-blur {
     box-shadow: 1em 0px 1em 1em #FFF;
     margin-top: -1em;
     padding-top: 2em;
     background: #FFF;
     display: block;
     width: 100%;
-    min-height: 400px;
+    height: 2em;
+    position: absolute;
 }
 
 #last-blog-post .inlinepage {
