@@ -16,6 +16,7 @@ article.inlinepage {
     height: 200px;
     width: 100%;
     display: block;
+    opacity: 0;
 }
 
 #last-blog-post-link a {
