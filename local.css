@@ -27,10 +27,6 @@ article.inlinepage {
     min-height: 400px;
 }
 
-#list-blog-post * {
-    background: #FFF;
-}
-
 #last-blog-post .inlinepage {
     max-height: 200px;
     margin-bottom: 2em;
@@ -40,3 +36,6 @@ article.inlinepage {
     display: none;
 }
 
+#last-blog-post .inlinefooter {
+    display: none;
+}
