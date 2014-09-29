@@ -1,4 +1,4 @@
-[[!meta title="Terms of Service; Didin’t Read Blog"]]
+[[!meta title="Terms of Service; Didn’t Read Blog"]]
 
 <div id="last-blog-post">
 [[!inline pages="page(./posts/*) and !*/Discussion" show="1" actions=no archive=no feeds=no]]
