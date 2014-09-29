@@ -1,0 +1,33 @@
+[[!meta title="New Feature: Tweet that rating!"]]
+[[!meta description="Now, you can tweet directly to a service provider about their terms of service."]]
+[[!meta language="en"]]
+[[!meta author="Hugo Roy"]]
+[[!tag lang:en spread_the_word new_feature sprint]]
+
+We’ve been very busy this weekend, working on [[the_code_for_tosdr.org|berlin-code-sprint]]. We are going to blog about some of the work we did. Here’s the first thing we made, just to warm us up! ☺ 
+
+Now, you can directly tweet from a ToS;DR Card! Here’s an example with [YouTube]. 
+
+[youTube]: https://tosdr.org/#youtube
+
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/YouTube">@YouTube</a> Your Class D rating worries me <a href="https://t.co/1lU6qgbItb">https://t.co/1lU6qgbItb</a> can you comment? <a href="https://twitter.com/hashtag/ToS?src=hash">#ToS</a> via <a href="https://twitter.com/ToSDR">@ToSDR</a></p>&mdash; Hugo Roy (@hugoroyd) <a href="https://twitter.com/hugoroyd/status/516636476302299136">September 29, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+The feature is available in some cases:
+
+  - when the Terms of service are rated Class A, class D or class E
+
+    That way, you can choose to thank service providers that respect your
+    rights, as well as share your concerns to service providers that apparently
+    haven’t upgraded their terms of service to better standards yet.
+
+  - when we have the Twitter handle in our database
+  
+    For that, we’d need to work with some database to import this kind of data.
+    If you are a developer interested in helping us on this, please drop in on this
+    [Github issue].
+
+[Github issue]: https://github.com/tosdr/tosdr.org/issues/138
+
+Please use this feature ☺ make some noise about the problem with Terms of service online, help fix the biggest lie on the web!
