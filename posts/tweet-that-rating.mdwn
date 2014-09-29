@@ -22,7 +22,7 @@ The feature is available in some cases:
   - when the Terms of service are rated Class A, class D or class E
 
     That way, you can choose to thank service providers that respect your
-    rights, as well as share your concerns to service providers that apparently
+    rights, as well as share your concerns with service providers that apparently
     haven’t upgraded their terms of service to better standards yet.
 
   - when we have the Twitter handle in our database
