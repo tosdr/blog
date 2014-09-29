@@ -15,10 +15,11 @@ article.inlinepage {
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 3em;
 }
 
 #last-blog-blur {
-    box-shadow: 1em 0px 1em 1em #FFF;
+    box-shadow: 2em 0px 1em 1em #FFF;
     margin-top: -1em;
     padding-top: 2em;
     background: #FFF;
