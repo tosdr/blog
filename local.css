@@ -24,6 +24,10 @@ article.inlinepage {
     background: #FFF;
 }
 
+#list-blog-post * {
+    background: #FFF;
+}
+
 #last-blog-post .inlinepage {
     height: 200px;
     margin-bottom: 2em;
