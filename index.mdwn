@@ -5,4 +5,6 @@
 </div>
 <div id="last-blog-blur"></div>
 
+<div id="list-blog-posts">
 [[!inline pages="page(./posts/*) and !*/Discussion" show="0" actions=no archive=yes]]
+</div>
