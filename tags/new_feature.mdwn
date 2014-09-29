@@ -1,0 +1,4 @@
+[[!meta title="pages tagged new feature"]]
+
+[[!inline pages="tagged(new_feature)" actions="no" archive="yes"
+feedshow=10]]
