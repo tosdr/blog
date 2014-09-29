@@ -1,3 +1,5 @@
+[[!meta title="Terms of Service; Didin’t Read Blog"]]
+
 [[!if test="enabled(sidebar)" then="""
 [[!sidebar]]
 """ else="""
