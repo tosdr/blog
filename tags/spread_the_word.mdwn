@@ -1,0 +1,4 @@
+[[!meta title="pages tagged spread the word"]]
+
+[[!inline pages="tagged(spread_the_word)" actions="no" archive="yes"
+feedshow=10]]
