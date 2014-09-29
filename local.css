@@ -22,12 +22,16 @@ article.inlinepage {
 
 
 #last-blog-post .inlinepage {
-    max-height: 100px;
-    margin-bottom: 2em;
+    margin-bottom: 0em;
 }
 
 #last-blog-post .inlinepage img {
     display: none;
+}
+
+#last-blog-post .inlinecontent {
+    max-height: 100px;
+    box-shadow: inset 0 0 1em #FFF;
 }
 
 #last-blog-post .inlinefooter {
