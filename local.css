@@ -24,6 +24,7 @@ article.inlinepage {
     background: #FFF;
     display: block;
     width: 100%;
+    min-height: 400px;
 }
 
 #list-blog-post * {
