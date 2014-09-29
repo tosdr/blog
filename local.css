@@ -24,6 +24,7 @@ article.inlinepage {
     height: 200px;
     width: 100%;
     color: transparent;
+    z-index: 999999;
 }
 
 #last-blog-post-link .archivepagedate {
