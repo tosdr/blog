@@ -1,5 +1,5 @@
 [[!meta title="Terms of Service; Didin’t Read Blog"]]
 
 
-[[!inline pages="page(./posts/*) and !*/Discussion" show="10"
-actions=yes rootpage="posts"]]
+[[!inline pages="page(./posts/*) and !*/Discussion" show="0"
+actions=no rootpage="posts"]]
