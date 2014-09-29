@@ -23,6 +23,7 @@ article.inlinepage {
     display: block;
     height: 200px;
     width: 100%;
+    color: transparent;
 }
 
 #last-blog-post-link .archivepagedate {
