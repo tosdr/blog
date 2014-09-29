@@ -2,7 +2,7 @@
 [[!meta description="Now, you can tweet directly to a service provider about their terms of service."]]
 [[!meta language="en"]]
 [[!meta author="Hugo Roy"]]
-[[!tag lang:en spread_the_word new_feature sprint]]
+[[!tag spread_the_word new_feature sprint]]
 
 We’ve been very busy this weekend, working on [[the_code_for_tosdr.org|berlin-code-sprint]]. We are going to blog about some of the work we did. Here’s the first thing we made, just to warm us up! ☺ 
 
