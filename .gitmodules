@@ -1,3 +1,6 @@
 [submodule "style/bootstrap"]
 	path = style/bootstrap
 	url = https://github.com/twbs/bootstrap.git
+[submodule "bootstrap-templates"]
+	path = bootstrap-templates
+	url = https://github.com/ramseydsilva/ikiwiki-bootstrap-theme
