@@ -32,6 +32,11 @@ article.inlinepage {
 }
 
 #last-blog-post .inlinepage {
-    height: 200px;
+    max-height: 200px;
     margin-bottom: 2em;
 }
+
+#last-blog-post .inlinepage img {
+    display: none;
+}
+
