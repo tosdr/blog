@@ -2,6 +2,12 @@
     font-size: 1.2em;
 }
 
+#last-blog-post {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 article.inlinepage {
     margin-bottom: 14em;
 }
