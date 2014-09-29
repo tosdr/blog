@@ -76,10 +76,11 @@
 </header>
 
 <div class="container">
-    <div class="row"><div class="col-md-8 col-md-offset-2">
+    <div class="row">
 
         <article class="page">
-            <section class="pageheader">
+            <section class="pageheader row">
+            <div class="col-md-12">
 
                 <nav class="actions navbar navbar-default" role="navigation">
                     <div class="container">
@@ -166,7 +167,13 @@
                 <TMPL_VAR TRAILS>
                 </TMPL_UNLESS>
 
+            </div>
             </section>
+
+
+            <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+
 
             <TMPL_UNLESS DYNAMIC>
             <TMPL_IF SIDEBAR>
@@ -210,6 +217,9 @@
             </TMPL_IF>
             </TMPL_UNLESS>
 
+            </div>
+
+            </div>
             </div>
 
             <footer id="footer" class="pagefooter">
