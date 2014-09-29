@@ -11,6 +11,19 @@ article.inlinepage {
     font-size: 2em;
 }
 
+#last-blog-post-link {
+    position: absolute;
+}
+
+#last-blog-post-link a {
+    display: block;
+    height: 200px;
+    width: 100%;
+}
+
+#last-blog-post-link .archivepagedate {
+}
+
 #last-blog-post {
     margin-bottom: 0em;
 }
