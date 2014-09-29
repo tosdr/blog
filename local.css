@@ -27,6 +27,7 @@ article.inlinepage {
 #last-blog-post .inlinecontent {
     max-height: 100px;
     overflow: hidden;
+    opacity: 0.6;
 }
 
 #last-blog-post .inlinefooter {
