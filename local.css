@@ -22,6 +22,8 @@ article.inlinepage {
     margin-top: -1em;
     padding-top: 2em;
     background: #FFF;
+    display: block;
+    width: 100%;
 }
 
 #list-blog-post * {
