@@ -1,1 +1,8 @@
-.empty{}
+article.inlinepage {
+    margin-bottom: 4em;
+}
+
+.inlinepage .inlineheader header {
+    font-weight: 500;
+    font-size: 2em;
+}
