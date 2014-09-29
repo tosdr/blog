@@ -20,7 +20,7 @@ article.inlinepage {
 
 #last-blog-blur {
     box-shadow: 3em 0px 1em 1em #FFF;
-    margin-top: -2.5em;
+    margin-top: -3.5em;
     background: #FFF;
     display: block;
     width: 100%;
@@ -42,5 +42,5 @@ article.inlinepage {
 }
 
 #list-blog-posts {
-    margin-top: 4em;
+    margin-top: 5em;
 }
