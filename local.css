@@ -25,9 +25,6 @@ article.inlinepage {
     margin-bottom: 0em;
 }
 
-#last-blog-post .inlinepage img {
-    display: none;
-}
 
 #last-blog-post .inlinecontent {
     max-height: 100px;
