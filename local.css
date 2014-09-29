@@ -18,6 +18,10 @@ article.inlinepage {
     margin-bottom: 0em;
 }
 
+#last-blog-post .inlineheader header a {
+    display: block;
+    min-height: 70px;
+}
 
 #last-blog-post .inlinepage {
     margin-bottom: 0em;
