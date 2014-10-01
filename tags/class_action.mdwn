@@ -1,0 +1,4 @@
+[[!meta title="pages tagged class action"]]
+
+[[!inline pages="tagged(class_action)" actions="no" archive="yes"
+feedshow=10]]
