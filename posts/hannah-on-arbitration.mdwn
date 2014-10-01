@@ -53,6 +53,11 @@ unconscionable.
 sense. If you write an unfair agreement, it's probably unfair, even if
 you're technically allowed to do it. The end.)
 
+
+------
+
+Context: we were discussing Sony’s terms of service where [they impose arbitration and waive rights to a class action][googlegrouplink].
+
 [waiver]: https://tosdr.org/topics.html#waiver
 
 [googlegrouplink]: https://groups.google.com/d/msg/tosdr/di_y5K5pzZw/4OXiH0CzMVwJ
