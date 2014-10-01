@@ -1,0 +1,4 @@
+[[!meta title="pages tagged legal"]]
+
+[[!inline pages="tagged(legal)" actions="no" archive="yes"
+feedshow=10]]
