@@ -1,0 +1,58 @@
+[[!meta title="Hannah on Arbitration and Class-Action-Waivers in Terms of Service"]]
+[[!meta language="en"]]
+[[!meta author="Hannah Poteat"]]
+[[!tag arbitration class_action legal USA]]
+
+On our [mailing list][googlegrouplink] about terms of service, where we discuss specific parts of terms, we sometimes end up discussing legal things more generally. As a lot of services, especially in the US, require users to [waive their right to a class action][waiver] or even sometimes require that any matter resolve [through private arbitration][waiver] rather than in the public court system. We often felt that these clauses were unfair for users. So I wanted to share Hannah’s analysis with you. Hannah is an attorney practicising in the US and has been contributed a lot of her insight to the [mailing list][googlegrouplink]. Thanks a lot Hannah! -- Hugo
+
+------
+
+My practice involves writing a lot of terms
+of use, so obviously, I like things that provide my clients the most
+protection possible.
+
+However (and please forgive me, I'm about to get very preachy...) speaking
+strictly for myself, I strongly dislike them in the context of standard
+terms of service and end user license agreements. On the one hand, I
+understand why the Supreme Court [of the United States] made the decision it did: in a
+well-negotiated contract, where two parties have, for reasonable
+consideration, agreed that they will waive the right to class action and
+agreed that they will settle disputes through alternative dispute
+resolution rather than going to court, the parties should be held to that
+agreement. However, terms of use and EULAs are not well-negotiated
+contracts. They are not negotiated contracts at all, and this fact changes
+everything.
+
+Terms of use and EULAs are contracts of adhesion: non-negotiable contracts
+in which one party has all the bargaining power and the other party can
+only take or leave the the terms. Given the doctrine of unconscionability
+(unconscionability has two factors: procedural and substantive
+unconscionability, and both have to be satisfied before a contract can be
+found unconscionable), I believe that terms of service are, at the outset, 
+*barely* fair. They start out being procedurally unconscionable. It is the
+job of the person writing the terms of use to make sure they aren't also
+substantively unconscionable, because if they are, the entire agreement
+could fail.
+
+This is why I really get upset at class action waivers and poorly drafted,
+consumer-unfriendly arbitration clauses (as well as other majorly faulty
+terms of use elements). It's my job to write terms of use that protect my
+clients, of course. But it doesn't protect my client if I write an
+agreement that is *so* horribly weighted in their favor that it actually
+harms their customers to do business with them. It benefits no one if the
+terms of a contract are so unfairly advantageous to one side that a court
+must invalidate the agreement.
+
+To sum up, because I did get wordy: I absolutely think there is a
+justifiable reason for class action waivers and arbitration requirements in
+negotiated contracts. But in contracts of adhesion, like terms of use
+agreements, I think they run the risk of making the entire agreement
+unconscionable.
+
+(P.S., this is not meant to be legal advice, etc. It's meant to be common
+sense. If you write an unfair agreement, it's probably unfair, even if
+you're technically allowed to do it. The end.)
+
+[waiver]: https://tosdr.org/topics.html#waiver
+
+[googlegrouplink]: https://groups.google.com/d/msg/tosdr/di_y5K5pzZw/4OXiH0CzMVwJ
