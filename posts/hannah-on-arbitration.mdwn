@@ -3,7 +3,7 @@
 [[!meta author="Hannah Poteat"]]
 [[!tag arbitration class_action legal USA]]
 
-On our [mailing list][googlegrouplink] about terms of service, where we discuss specific parts of terms, we sometimes end up discussing legal things more generally. As a lot of services, especially in the US, require users to [waive their right to a class action][waiver] or even sometimes require that any matter resolve [through private arbitration][waiver] rather than in the public court system. We often felt that these clauses were unfair for users. So I wanted to share Hannah’s analysis with you. Hannah is an attorney practicising in the US and has been contributed a lot of her insight to the [mailing list][googlegrouplink]. Thanks a lot Hannah! -- Hugo
+On our [mailing list][googlegrouplink] about terms of service, where we discuss specific parts of terms, we sometimes end up discussing legal things more generally. Indeed a lot of services, especially in the US, require users to [waive their right to a class action][waiver] or even sometimes require that any matter resolve [through private arbitration][waiver] rather than in the public court system. We often felt that these clauses were unfair for users. So I wanted to share Hannah’s analysis with you. Hannah is an attorney practicising in the US and has been contributing a lot of her insight to the [mailing list][googlegrouplink]. Thanks a lot Hannah! -- Hugo
 
 ------
 
