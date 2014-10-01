@@ -1,0 +1,4 @@
+[[!meta title="pages tagged USA"]]
+
+[[!inline pages="tagged(USA)" actions="no" archive="yes"
+feedshow=10]]
