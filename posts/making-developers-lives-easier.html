@@ -1,0 +1,19 @@
+[[!meta title="Making Developers' Lives Easier"]]
+[[!meta language="en"]]
+[[!meta date="2014-10-05"]]
+[[!meta author="Vincent Tunru"]]
+
+A major focus during [last week's hackathon](https://tosdr.org/conf/) was improving our story for developers. Not only did we want to make it easier for developers to jump in and [contribute to the project directly](https://tosdr.org/contribute.html), but we also wanted to make it as easy as possible to set up similar projects. For example, there are initiatives underway to bring the project to Brazil with a local version, and [Surfnet](http://www.surfnet.nl/) is using the project to provide associated universities with more insight in the terms of the services they offer. Unfortunately, our source code did not make that as easy as it could be. During the Hackathon, we made great strides forward in solving that. I will discuss the improvements in this blog post, which will therefore be aimed at the more technically inclined.
+
+The main issue with [our source code](https://github.com/tosdr/tosdr.org/) was that it contained both our website content, images, ratings and such, and the code used to put it together into a full-fledged website, without clearly separating the two. This means that, when using it to start your own, similar project, it was difficult to find out where to start, and our edits to the website could easily impact derivative projects. Furthermore, the build scripts to put together the website were largely custom made and not designed to run on different platforms.
+
+Our approach to solving this problem was two-fold:
+
+1. Split the code in two repositories: [one containing the live website content](https://github.com/tosdr/tosdr.org/), and [one containing the code used to generate it](https://github.com/tosdr/tosdr-build/).
+2. Implement a build process based on [Grunt](http://gruntjs.com/).
+
+This has several consequences for developers. First of all, it is now a lot easier to get started. It no longer matters which platform you are on, and the build process is a lot simpler because Grunt handles a lot of the work for you. In fact, a very good way to get started as a contributor is to implement one of [the many things that Grunt can do for you](http://gruntjs.com/plugins). For example, it has already brought us automatic image minification, saving us bandwidth, and compilation of the [LESS source files](http://lesscss.org/), but one could imagine the addition of e.g. [Handlebars](http://handlebarsjs.com/) to build our HTML files instead of our custom implementation, or the addition of automatic testing to make sure everything still works as it should.
+
+Secondly, if you're working on derivative projects, you need the [tosdr-build](https://github.com/tosdr/tosdr-build/) repository now. The transition might be a bit of a hurdle, but after that it will make your life a lot easier. Now, you can simply edit the contents of `src/` directory, run `grunt`, and then the contents of your website will be in the `dist/` directory. 
+
+We hope that potential new developers will find it easier to jump in, and most of all are excited to see what great new projects this will sprout. If you have any feedback or comments, please do [get in touch!](https://tosdr.org/about.html#contact)
