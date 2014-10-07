@@ -1,4 +1,4 @@
 [[!meta redir="https://www.eff.org/deeplinks/2013/01/campus-party-hackathon-making-rule-contribution-tosback"]]
 [[!meta title="TOSBack Hackathon in Campus Party Brazil, how to contribute"]]
 [[!meta date="2013-01-28"]]
-[[!meta author="Jimm Stout"]]
+[[!meta author="Jimm Stout"]][[!tag ToSBack]]
