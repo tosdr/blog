@@ -1,0 +1,4 @@
+[[!meta redir="http://jimmstout.com/2012/fixing-blank-scrape-data/"]]
+[[!meta title="Fixing Blank Scrape Data"]]
+[[!meta date="2012-11-06"]]
+[[!meta author="Jimm Stout"]]
