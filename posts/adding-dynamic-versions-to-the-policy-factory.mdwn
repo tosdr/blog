@@ -1,0 +1,4 @@
+[[!meta redir="http://jimmstout.com/2013/adding-dynamic-versions-to-the-policy-factory/"]]
+[[!meta title="Adding Dynamic Versions to the Policy Factory"]]
+[[!meta date="2013-04-02"]]
+[[!meta author="Jimm Stout"]]

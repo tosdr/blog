@@ -1,0 +1,4 @@
+[[!meta redir="http://jimmstout.com/2014/disabling-groups-of-rspec-examples/"]]
+[[!meta title="Disabling Groups of RSpec Examples"]]
+[[!meta date="2013-05-04"]]
+[[!meta author="Jimm Stout"]]

@@ -1,0 +1,4 @@
+[[!meta redir="http://jimmstout.com/2013/shared-examples-for-testing-session-links/"]]
+[[!meta title="Shared Examples for Testing Session Links"]]
+[[!meta date="2013-04-13"]]
+[[!meta author="Jimm Stout"]]
