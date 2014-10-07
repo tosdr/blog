@@ -11,6 +11,14 @@ article.inlinepage {
     font-size: 2em;
 }
 
+.archivepage {
+    margin: 0.5em 0;
+}
+
+.archivepage .archivepagedate {
+    color: #999;
+}
+
 #last-blog-post-link {
     position: absolute;
     height: 200px;
@@ -59,3 +67,5 @@ article.inlinepage {
     width: 100%;
     background: #FFF;
 }
+
+
