@@ -1,0 +1,4 @@
+[[!meta redir="http://jimmstout.com/2012/passing-arguments-to-tosback/"]]
+[[!meta title="Passing Arguments to TOSBack"]]
+[[!meta date="2012-11-29"]]
+[[!meta author="Jimm Stout"]]
