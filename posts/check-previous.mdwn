@@ -1,4 +1,4 @@
 [[!meta redir="http://jimmstout.com/2012/adding-a-method-to-check-for-previous-crawl-data/"]]
 [[!meta title="Adding a Method to Check for Previous Crawl Data"]]
 [[!meta date="2012-12-04"]]
-[[!meta author="Jimm Stout"]][[!tag ToSBack devlopment]]
+[[!meta author="Jimm Stout"]][[!tag ToSBack development]]

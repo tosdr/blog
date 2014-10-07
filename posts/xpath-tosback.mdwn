@@ -1,4 +1,4 @@
 [[!meta redir="http://jimmstout.com/2012/adding-xpath-to-tosback-rules/"]]
 [[!meta title="Adding XPath to TOSBack Rules"]]
 [[!meta date="2012-10-24"]]
-[[!meta author="Jimm Stout"]][[!tag ToSBack devlopment]]
+[[!meta author="Jimm Stout"]][[!tag ToSBack development]]

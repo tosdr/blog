@@ -1,4 +1,4 @@
 [[!meta redir="http://jimmstout.com/2013/help-us-develop-the-new-tosback/"]]
 [[!meta title="Help Us Develop the New ToSBack!"]]
 [[!meta date="2013-01-30"]]
-[[!meta author="Jimm Stout"]][[!tag ToSBack devlopment]]
+[[!meta author="Jimm Stout"]][[!tag ToSBack development]]

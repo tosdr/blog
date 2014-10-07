@@ -1,4 +1,4 @@
 [[!meta redir="http://jimmstout.com/2012/adding-a-default-content-type-to-mechanize-agent/"]]
 [[!meta title="Adding a Default Content Type to Mechanize Agent"]]
 [[!meta date="2012-11-16"]]
-[[!meta author="Jimm Stout"]][[!tag ToSBack devlopment]]
+[[!meta author="Jimm Stout"]][[!tag ToSBack development]]
