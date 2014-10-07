@@ -2,6 +2,7 @@
 [[!meta language="en"]]
 [[!meta date="2014-10-05"]]
 [[!meta author="Vincent Tunru"]]
+[[!tag development build]]
 
 A major focus during [last week's hackathon](http://blog.tosdr.org/posts/berlin-code-sprint/) was improving our story for developers. Not only did we want to make it easier for developers to jump in and [contribute to the project directly](https://tosdr.org/contribute.html), but we also wanted to make it as easy as possible to set up similar projects. For example, there are initiatives underway to bring the project to Brazil with a local version, and [Surfnet](http://www.surfnet.nl/) is using the project to provide associated universities with more insight in the terms of the services they offer. Unfortunately, our source code did not make that as easy as it could be. During the Hackathon, we made great strides forward in solving that. I will discuss the improvements in this blog post, which will therefore be aimed at the more technically inclined.
 
