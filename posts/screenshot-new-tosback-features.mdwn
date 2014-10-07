@@ -1,4 +1,4 @@
 [[!meta redir="http://jimmstout.com/2013/screenshot-tour-of-new-tosback-features/"]]
 [[!meta title="Screenshot Tour of New TOSBack Features"]]
 [[!meta date="2013-03-25"]]
-[[!meta author="Jimm Stout"]][[!tag ToSBack]]
+[[!meta author="Jimm Stout"]][[!tag ToSBack new_feature]]
