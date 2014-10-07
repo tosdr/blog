@@ -68,4 +68,8 @@ article.inlinepage {
     background: #FFF;
 }
 
+#list-blog-posts .archivepage:first-child {
+    display: none;
+}
+
 
