@@ -1,0 +1,4 @@
+[[!meta title="pages tagged relatedProjects"]]
+
+[[!inline pages="tagged(relatedProjects)" actions="no" archive="yes"
+feedshow=10]]
