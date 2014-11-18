@@ -64,7 +64,7 @@ of -20. This enhancement made it easier to compare services, because we
 were now able to classify all topics as well. With this rating on
 separate topics the classification is more specific.
 
-[[!img surfnetScreen.png alt="screenshot" caption="Figure 1: example of points clustered by topics and topic classification."]]
+[[!img surfnetScreen.png alt="screenshot" caption="Figure 1: example of points clustered by topics and topic classification." size="777x"]]
 
 Just as ToS;DR classifies cloud **services** freely available to the general
 public, we wanted to classify services that are offered via the SURF AAI
