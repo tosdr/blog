@@ -4,8 +4,7 @@
 [[!tag development relatedProjects]]
 
 *During our [[Berlin_code_sprint|posts/berlin-code-sprint/]], we had the chance to welcome Alexander Blanc and Herman van Dompseler who have been working on a proof of concept based on [the Terms of Service; Didn't Read source code](https://github.com/tosdr) to classify services offered by Dutch ISP SURFnet. We are very happy to see our work used in such ways, in the spirit of Free Software, to raise awareness about our rights online! Without further ado:*
-
-<div class="pull-right">-- Hugo</div>
+<span class="pull-right">— Hugo</span>
 
 ----------
 
