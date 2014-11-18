@@ -1,0 +1,135 @@
+[[!meta title="Using ToS;DR to classify cloud services offered by SURF – a proof of concept"]]
+[[!meta author="Alexander Blanc & Herman van Dompseler"]]
+[[!meta language="en"]]
+[[!tag development relatedProjects]]
+
+*During our [[Berlin_code_sprint|posts/berlin-code-sprint/]], we had the chance to welcome Alexander Blanc and Herman van Dompseler who have been working on a proof of concept based on [the Terms of Service; Didn't Read source code](https://github.com/tosdr) to classify services offered by Dutch ISP SURFnet. We are very happy to see our work used in such ways, in the spirit of Free Software, to raise awareness about our rights online! Without further ado:*
+
+<div class="pull-right">-- Hugo</div>
+
+----------
+
+SURF is the initiator of innovation in higher education and
+research in the Netherlands. SURF connects ICT professionals in networks
+and collaboration projects in order to exchange knowledge in ICT
+innovation. SURFnet runs the SURFconext Authentication and Authorisation
+Infrastructure (AAI) by which (third party) cloud services can be used
+in a federated way. In most cases, these services are subject to a
+license negotiated by SURFmarket as intermediary for (higher) education
+and research institutes.
+
+A SURF specific ToS;DR implementation could be a service we offer to our
+users (and institutions) to compare these cloud services based on their
+Terms of Services. To find out, we made a Proof of Concept (PoC). We
+started out forking the ToS;DR code and deployed it on a virtual
+machine. We started from scratch and this is what we encountered on our
+way.
+
+### Concepts 
+
+We began reading a ToS from one of our own services and
+realized that it is very important to get a good grip of the ToS;DR
+concepts. Especially the three main concepts: services, topics and
+points.
+
+Let's start with the **points**, because they are closest to the underlying
+ToS. Points are actually (subjects in) ToS articles that represent a
+bad, good or neutral characteristic of the ToS at hand. In the online
+version of ToS;DR points are provided by the crowd. In our setup we
+classify ToS’s on points we pick ourselves. To pick the relevant points
+from a ToS with dozens of articles is not trivial. We tend to focus on
+the bad points in a ToS, although from a legal perspective describing
+something bad in a ToS could actually be better than describing nothing
+at all about a subject. We ended up rereading the ToS several times, but
+more on that later. Once you pick a point you have to consider the
+importance of the point. First decide if it is good, bad or neutral, but
+how good, bad or neutral? Therefore ToS;DR uses a score, from 0-100 for
+each of the points. We changed this slightly to represent a scale. Bad
+points were scored between -100 and 0, neutral points are always 0 and
+good points ranged from 0 to 100:
+
+    bad           neutral         good 
+    -100 =========== 0 =========== 100
+
+When analysing the second ToS, we found similar points that could be
+re-used. We came up with new points but also encountered subjects that
+were not addressed in the second ToS. This is where the concept of
+**topics** comes in. In ToS;DR points are clustered in topics. The topics
+are defined by the underlying points. Topics are merely used for
+categorization. We elaborated on these topics by defining them in
+advance. We decided that every ToS should mention something about each
+topic we define. For ToS's that do not mention anything about a certain
+topic we throw a new point in the mix, stating: 'This ToS does not say
+anything about topic X' and considered this a bad thing with a score
+of -20. This enhancement made it easier to compare services, because we
+were now able to classify all topics as well. With this rating on
+separate topics the classification is more specific.
+
+[[!img surfnetScreen.png alt="screenshot" caption="Figure 1: example of points clustered by topics and topic classification."]]
+
+Just as ToS;DR classifies cloud **services** freely available to the general
+public, we wanted to classify services that are offered via the SURF AAI
+infrastructure to it’s constituency. But how does the classification
+work? It turned out that the classification of ToS;DR at that time was
+not automated. So we had to come up with a classification algorithm
+ourselves. We decided to go for a simple classification. We used our
+previously mentioned scale for this. We mapped classes on the scale
+depending on the score. A score between 61 and 100 represents class A,
+and between 21 and 60 class B etc. Just like this:
+
+class A: 100 - 61 
+class B: 60 - 21 
+class C: 20 - -20 
+class D: -21 - -60
+class E: -61 - -100
+
+At first the score we used for classification was the average score of
+all points allotted to the service. Later we lowered the class of
+services that had more bad points than good points, to reflect the bad
+tone of a ToS.
+
+### Workflow 
+
+After using ToS;DR for a while, adding services, topics and
+points we realized we needed a different workflow than the original
+ToS;DR. We have a limited set of services to score, currently around
+300, and we consider offering the ToS;DR based classification as a
+service to our users. Also very important, we need a legal expert to
+review our interpretation on topics and points in order to prevent us
+for misinterpreting. It turned out to be very difficult to interpret a
+ToS correctly without having a legal background.
+
+Where the original ToS;DR concept uses crowd based discussion input to
+formulate and rate points, in our case we interpret the ToS deciding on
+points and rating. Instead we give users the opportunity to discuss our
+interpretation of a point **after** we publish our classification of a
+service. We use their comments to update our interpretation whereas
+ToS;DR fully relies on users to come up with points from a ToS **before**
+the classification is published.
+
+For our legal experts to analyse ToS's we needed a kind of management
+tool to add services, topics and points. They are typically not able to
+read and write the JSON which is at the base of ToS;DR. We understand
+from the ToS;DR team they are working on a management interface, but for
+now we use our own mapping from Excel to JSON. We have three Excel files
+that are write-able by the legal experts. Once in a while we convert the
+Excel to JSON files with a couple of scripts and build a new ToS;DR
+based on the new JSON files for services, topics and points. In these
+scripts we also included the classification of the services based on the
+score of the points.
+
+### Conclusion 
+
+We learned a lot about the ToS's of our connected services by
+using ToS;DR. The classification of a ToS and the corresponding points
+enable a good insight into the ToS. The results presented by ToS;DR are
+much easier to interpret and more compact than the original ToS. We
+created an internal proof of concept and we are now considering adding
+more services and publishing our classification to our constituency.
+
+The biggest challenge will be to get all the points out of the ToS's of
+300+ services and give them a relevant score, as well as keeping them up
+to date. The main question that needs to be answered before continuing
+with this project is: will the expected benefit to our users justify
+expenses needed to analyse all the ToS's?
+
