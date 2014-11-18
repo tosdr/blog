@@ -76,11 +76,11 @@ previously mentioned scale for this. We mapped classes on the scale
 depending on the score. A score between 61 and 100 represents class A,
 and between 21 and 60 class B etc. Just like this:
 
-class A: 100 - 61 
-class B: 60 - 21 
-class C: 20 - -20 
-class D: -21 - -60
-class E: -61 - -100
+ - class A: 100 - 61 
+ - class B: 60 - 21 
+ - class C: 20 - -20 
+ - class D: -21 - -60
+ - class E: -61 - -100
 
 At first the score we used for classification was the average score of
 all points allotted to the service. Later we lowered the class of
