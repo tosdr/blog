@@ -1,6 +1,6 @@
 [[!meta title="Events and talks"]]
 
-[[!calendar pages="page(./events/*) and !*/Discussion"]]
+<!--[[!calendar pages="page(./events/*) and !*/Discussion"]]-->
 
 [[!inline pages="page(./events/*) and !*/Discussion and !(tagged(meta:ignore)) and !*/slides
 and !*/local" show=55
