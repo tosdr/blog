@@ -44,3 +44,8 @@ Please see tosdr/tosback2/crawl/google.com  to get ToS in plain text and calcula
 
     4 278
 
+- Paypal
+    - privacy 2697 words (unique words: 728)
+    - user agreement, 25860 unique words: 2929
+    https://www.paypal.com/uk/webapps/mpp/ua/useragreement-full?locale.x=en_GB 
+-   
