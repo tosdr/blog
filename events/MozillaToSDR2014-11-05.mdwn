@@ -1,0 +1,10 @@
+[[!meta title="Fixing The Biggest Lie on The Web (Mozilla, London, 2014)"]]
+[[!meta language="en"
+[[!meta description="“I have read and agree to the terms” is the biggest lie on the web. But what lies beneath the joke is fundamental: how our rights are governed online. Terms of service are often the subject of negative attention, yet the situation perpetuates. How did we get here? How can we fix this?"]]
+[[!meta date="2014-11-05T18:00:00+01:00"]]
+
+ - What: <a href="https://tosdr.org/conf/london201411.html">Meetup about ToS;DR</a>
+ - When: November 5
+ - Where: Mozilla London Office
+
+Slides at <a href="https://hroy.eu/talks/MozillaToSDR2014-11-05/">https://hroy.eu/talks/MozillaToSDR2014-11-05/</a>. 
