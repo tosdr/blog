@@ -1,9 +1,6 @@
 [[!meta title="Events and talks"]]
-[[!if test="enabled(sidebar)" then="""
-[[!sidebar]]
-""" else="""
-[[!inline pages=sidebar raw=yes]]
-"""]]
+
+[[!calendar pages="page(./events/*) and !*/Discussion"]]
 
 [[!inline pages="page(./events/*) and !*/Discussion and !(tagged(meta:ignore)) and !*/slides
 and !*/local" show=55
