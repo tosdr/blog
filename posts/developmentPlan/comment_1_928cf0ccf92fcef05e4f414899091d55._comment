@@ -1,0 +1,16 @@
+[[!comment format=mdwn
+ username="https://www.google.com/accounts/o8/id?id=AItOawnqO8aGGTA40Vo6bSFHM61Qs5MYv4qN2lE"
+ nickname="Alexander"
+ subject="Have you considered NLP?"
+ date="2015-01-28T04:23:30Z"
+ content="""
+Hi,
+
+I'm doing research in Natural Language Processing (NLP) and this seems like a task that a machine could help you with. If you could provide data, i.e. terms and conditions and corresponding ratings for each part, it would be an interesting NLP task to classify and summarise unseen T&Cs correctly.
+
+If you publish the data you might get some interest from the machine learning community i.e. kaggle.com
+
+Just an idea. 
+
+Alexander Whillas
+"""]]
