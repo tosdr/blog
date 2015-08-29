@@ -37,3 +37,5 @@ ToS;DR supports the Manifesto, along with other organisations:
 - ownCloud
 
 
+[You can read the User Data Manifesto here](http://userdatamanifesto.org/)
+
