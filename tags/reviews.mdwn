@@ -1,0 +1,4 @@
+[[!meta title="pages tagged reviews"]]
+
+[[!inline pages="tagged(reviews)" actions="no" archive="yes"
+feedshow=10]]
