@@ -1,0 +1,29 @@
+[[!meta title="Jan Jambor: “The fun reading Terms of Service”"]
+[[!meta author="Jan Jambor"]
+[[!meta language="en"]]
+[[!tag contribution reviews]]
+[[!meta redir="https://jambor.pro/2-u/37-tosdr-review"]]
+[[!meta license="Creative Commons CC BY SA 4.0"]]
+
+*[Jan Jambor has tested the new system for contributing to ToS;DR. Here's his feedback! -- Hugo]*
+
+
+
+Oh wait there is none … or is there? Spoiler: it's not exactly fun but way better than what it is now.
+
+Summary
+
+-  Use ToS;DR with the browser plugin available for all major browsers: <https://tosdr.org/downloads.html>
+ - Contribute easy and quick: <https://edit.tosdr.org/points/submit>
+
+There are not many things in this world which are so quickly and without a thought done as clicking the „I agree“ option when signing up for a new service or website. Reading Terms of Services simply sucks and nobody does it.
+
+[[!img tosdr_netflix_tv.jpg alt="Netflix ToS" caption="Whats on TV today: 44 Screens of Netflix ToS (via https://twitter.com/Damien_Leloup/status/643855306762657793"]]
+
+But this comes to an end now and everyone of us can help making life easier for all of us. How? With Terms of Service; Didn’t Read (https://tosdr.org/). In a nutshell ToS;dr is a browser add-on for Firefox, Chrome, Safari, Opera and soon also IE which shows you the summary of a websites ToS in the URL bar.
+
+[[!img tosdr_youtube.png alt="ToS of YouTube" caption="Make a guess: are the ToS of youtube rather good or bad for users?"]]
+
+But not only using the service with the browser plugin comes in pretty handy. Also submitting new information for services is very easy. At <https://edit.tosdr.org/points/submit> you can add remarks for any service you want. Doing so doesn’t require that you are an expert for ToS, simply put there what you as a user think. One example: I added some remarks for the Pebble watch (<https://www.pebble.com/>) and the Pebble SDK. From my point of view it is very important, that ownership of apps published on the Pebble app store is clarified. Furthermore it is very important to me that changes to my account or even a deletion of it cannot be done uncommented and without notification. So I created 2 good review points because Pebble acknowledges the app authors ownership and I created one bad review as Pebble reserves the right to delete your account ad any time without notice. All done in few minutes.
+
+When you use the next time one of your favorite websites or services no matter if it is a big one like Google, Facebook or Amazone or a small local service like your local newspapers electronic subscription or the app from your local public transport provider: help the people who also use the service and submit a point you really like or disagree with.
