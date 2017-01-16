@@ -1,0 +1,22 @@
+[[!meta title="ToS;DR is back! (but we really never left)"]]
+[[!meta language="en"]]
+[[!meta date="2017-01-15"]]
+[[!meta author="Christopher Talib"]]
+
+In 2016, ToS;DR has suffered from a lack of activity as most our team are volunteers that sometimes have other priorities. Nonetheless, the visits on the website didn't drop, people were still adding new ToS to be reviewed in our tool ,edit.tosdr.org, and ToS;DR si still considered as a reference for many users. 
+
+We realise that and we don't want to leave this projet slowly dive into oblivion when abusive ToS still exist. 2016 was an important year with the negotiations of the new Transtlantic data exchange agreement, the so-called Privacy Shield. Many online services were asked to update their ToS to conform with the new regulation. This means we have lots of work ahead of us. 
+
+I joined ToS;DR few weeks from now as a volunteer. So far, I worked with Michiel and Hugo to clarify a number of workflows and plan the next objectives for 2017 and onwards. 
+
+Here are our main goals for the next months: 
+
+* Clarify the workflow on edit.tosdr.org
+* Update the analysis of ToS on tosdr.org
+* Add new and updated classes for most popular services
+
+ToS;DR is an open project and we will very happy to see you join our team of volunteers! We have very different needs and many different profile around our team. If you think ToS must be clear, if you want to debunk the lies of private companies infringing your privacy and personal data, join us!
+
+
+
+
