@@ -1,0 +1,31 @@
+[[!meta title="ToS;DR update: 2017 and still not agreeing to your ToS"]] 
+[[!meta language="en"]]
+[[!meta date="2017-02-4"]]
+[[!meta author="Christopher Talib"]]
+
+It's a new year and ToS;DR is thrilled to announce a couple of good news! 
+
+ToS;DR has always been driven by volunteers and in the past months, the activity decreased and many worried about the future of this project. Those concerns showed also the interest of a large majority of users for their personal data handled by private companies. As if it was not bad enough, new US and EU regulations on personal data added to the concerns and the misunderstanding. As important negotiations were carried through parliaments and councils, users were still left in the dark on what was done with their online life. 
+
+We have seen improvements in the past years on the wording of Terms of Services but no improvements of the practices and today, the situation is still worrying. 
+
+Chatting on Whatsapp, dating on Tinder, sending photos on Snapchat, saving work on Dropbox... those are parts of our everyday lives. Can we leave those services? What is done with our data? Who can access it? Those are questions that are still difficult to answer. 
+
+It's 2017 and we are still trying to fix the biggest lie on the Internet: "Yes, I have read and understood the Terms of Services".
+
+This is why, we are happy to announce new recruits on the team: 
+
+* Olga joined in January this year. She is Human Rights lawyer with focus in data protection and currently trainee in the Free Software Foundation Europe. She is also a post-graduate student of Legal Philosophy..
+* Chris is a digital activist, he works for an NGO defending civil rights in France. He joined the project in December 2016.
+
+## Next steps: we need your help!
+
+First of all, we are moving away from Google group to a own brewed analysis tool: edit.tosdr.org. This tool developed with the Meteor JS Framework. Michiel was the one in charge of this but he can't do it alone. We are looking for someone that knows this type of framework and who is willing to help making the Internet more transparent! Also, we give retribution for working hours! So don't be shy!
+
+Secondly, we will updated our ratings of most popular services in the next months, so keep an eye for changes! It is going to be a wild ride! And feel welcome to join us in our adventure!
+
+This is our main mid-term objectives. So what do you say? Do you want to help fix the biggest lie on the Internet?
+
+
+
+
